@@ -1,0 +1,9 @@
+{
+  "name": "ParkSmart AI",
+  "description": "A smart, real-time parking management system with integrated maps, QR-based check-ins, and an automated admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
